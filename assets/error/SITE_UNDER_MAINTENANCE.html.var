@@ -1,0 +1,35 @@
+Content-language: en
+Content-type: text/html; charset=UTF-8
+Body:----------en--
+<!--#set var="TITLE" value="Service unavailable!"
+-->
+<!--#include virtual="include/top.html" -->
+
+<h1>SITE UNDER MAINTENANCE!</h1>
+<p>
+    <img style="margin: 0 auto;display: block;" src="/assets/img/shoveling.gif" width="50%">
+</p>
+<p>
+    The server is temporarily unable to service your
+    request due to maintenance downtime or capacity
+    problems. Please try again later.
+</p>
+<!--#include virtual="include/bottom.html" -->
+----------en--
+
+Content-language: ko
+Content-type: text/html; charset=UTF-8
+Body:----------ko--
+<!--#set var="CONTENT_LANGUAGE" value="ko"
+-->
+<!--#set var="TITLE" value="서비스 일시중지!"
+-->
+<!--#include virtual="include/top.html" -->
+
+<h1 class="maintenance">SITE UNDER MAINTENANCE!</h1>
+<img class="maintenance" style="margin: 0 auto;" src="/assets/img/shoveling.gif" width="50%">
+
+관리 작업이나 용량 문제로 서버가 잠시동안 요청을 처리할 수 없습니다.
+나중에 다시 시도해주시기 바랍니다.
+<!--#include virtual="include/bottom.html" -->
+----------ko--
