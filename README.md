@@ -17,8 +17,8 @@
 * Compiled using: APR 1.7.0, APR-UTIL 1.6.1
 * Architecture:   64-bit
 * Server MPM:     WinNT
-*   threaded:     yes (fixed thread count)
-*     forked:     no
+* &nbsp;&nbsp;&nbsp;&nbsp;threaded:     yes (fixed thread count)
+* &nbsp;&nbsp;&nbsp;&nbsp;forked:     no
 * Server compiled with....
 *  -D APR_HAS_SENDFILE
 *  -D APR_HAS_MMAP
