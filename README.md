@@ -11,14 +11,14 @@
 * [Announcement & Changelog](https://www.apachelounge.com/viewtopic.php?p=38419)
 ### Compile Options
 * Server version: Apache/2.4.41 (Win64)
-* Apache Lounge VS16 Server built:   Aug  9 2019 16:46:32
+* Apache Lounge VC15 Server built:   Aug 11 2019 12:20:04
 * Server's Module Magic Number: 20120211:88
 * Server loaded:  APR 1.7.0, APR-UTIL 1.6.1
 * Compiled using: APR 1.7.0, APR-UTIL 1.6.1
 * Architecture:   64-bit
 * Server MPM:     WinNT
-* threaded:     yes (fixed thread count)
-* forked:     no
+*   threaded:     yes (fixed thread count)
+*     forked:     no
 * Server compiled with....
 *  -D APR_HAS_SENDFILE
 *  -D APR_HAS_MMAP
