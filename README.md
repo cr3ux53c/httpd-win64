@@ -10,15 +10,15 @@
 * Home: www.apachelounge.com
 * [Announcement & Changelog](https://www.apachelounge.com/viewtopic.php?p=38419)
 ### Compile Options
-* Server version: Apache/2.4.41 (Win64)
-* Apache Lounge VC15 Server built:   Aug 11 2019 12:20:04
-* Server's Module Magic Number: 20120211:88
+* Server version: Apache/2.4.43 (Win64)
+* Apache Lounge VC15 Server built:   Apr  1 2020 11:30:24
+* Server's Module Magic Number: 20120211:92
 * Server loaded:  APR 1.7.0, APR-UTIL 1.6.1
 * Compiled using: APR 1.7.0, APR-UTIL 1.6.1
 * Architecture:   64-bit
 * Server MPM:     WinNT
-* &nbsp;&nbsp;&nbsp;&nbsp;threaded:     yes (fixed thread count)
-* &nbsp;&nbsp;&nbsp;&nbsp;forked:     no
+*   threaded:     yes (fixed thread count)
+*     forked:     no
 * Server compiled with....
 *  -D APR_HAS_SENDFILE
 *  -D APR_HAS_MMAP
